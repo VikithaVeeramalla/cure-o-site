@@ -1,0 +1,64 @@
+.mar{
+    margin-right:25px;
+    font-family: Bree serif;
+}
+.img{
+    height:30px;
+    width:40px;
+    border-radius: 10px;
+}
+.bg-container{
+    background-image: url("https://img.freepik.com/free-vector/white-background-with-blue-tech-hexagon_1017-19366.jpg?w=740&t=st=1661494550~exp=1661495150~hmac=323189a154443f16bcf5da513c83a5a3e77165b606a15b399c4706d888d4519e");
+    background-size: cover;
+    height: 100vh;
+}
+.hi{
+    margin-left:auto;;
+}
+.hed{
+    font-family: roboto;
+    color:darkcyan;
+    text-align: center;
+}
+.h-img{
+    margin-left:30px;
+    border-radius: 10px;
+
+}
+.footer{
+    background-color: rgb(100, 88, 112);
+    height:20vh;
+}
+.para{
+    margin-left:30px;
+    margin-top:50px;
+}
+.f-section{
+    color:rgb(174, 220, 238);
+    text-align: center;
+    font-family: Bree serif;
+    font-size:20px;
+    margin-top:10px;
+    
+}
+.icon {
+    color:rgb(239, 239, 230);
+    font-size: 30px;
+  }
+  .follow-us-icon-container{
+    margin-right:15px;
+    margin-top: 10px;
+  }
+  .end{
+    background-color: rgb(214, 240, 240);
+    height:40px
+  }
+  .l-para{
+    color:rgb(36, 33, 33);
+    text-align: center;
+  }
+  .dropdown-menu{
+    color:darkslategray;
+  }
+ 
+  

@@ -1,0 +1,22 @@
+.mar{
+    margin-right:25px;
+    font-family: Bree serif;
+}
+.img{
+    height:30px;
+    width:40px;
+}
+.bg-container{
+    background-image: url("https://img.freepik.com/free-vector/white-background-with-blue-tech-hexagon_1017-19366.jpg?w=360&t=st=1661424913~exp=1661425513~hmac=9f5030fc0a39d56aa8b540064f59825e804d9abfe3368d5794cbffc7b90df76f");
+    background-size: cover;
+    height:100vh;
+}
+.hed{
+    font-family: Bree serif;
+    color:rgb(58, 137, 135);
+    text-align: center;
+}
+.img-a{
+    margin:30px;
+    
+}
